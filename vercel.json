@@ -1,0 +1,5 @@
+{
+  "installCommand": "cd \"tiktok darklb\" && npm install",
+  "buildCommand": "cd \"tiktok darklb\" && npm run build",
+  "outputDirectory": "tiktok darklb/dist"
+}
